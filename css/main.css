@@ -17,9 +17,9 @@ ul {
 li {
     margin-left: 15px;
 }
-/*#welcome_message {
+#welcome_message {
     display: none;
-}*/
+}
 .show_message{
   display:block;
 }
@@ -34,9 +34,9 @@ li {
     background-attachment: fixed;
     /*  background-color: #00BFFF;*/
 }
-/*#two, #three {
+#two, #three {
     display: none;
-}*/
+}
 .fa {
     color: rgba(255, 201, 7, 1);
 }
