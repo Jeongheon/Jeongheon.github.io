@@ -655,27 +655,7 @@ footer {
     .fa.fa-child {
         font-size: 85px;
     }
-    .special.login_btn {
-        width: 80px;
-        display: inline-block;
-        margin-left: 10px;
-        margin-top: 0;
-        margin-bottom: 0;
-        height: 42px;
-        position: absolute;
-        right: 50px;
-        top: 1px;
-    }
-    /*#login_form {
-        position: relative;
-        margin-top: 15px;
-        width: 700px;
-        padding-left: 130px;
-        padding-bottom: 10px;
-    }
-    #id, #pw {
-        width: 200px;
-    }*/
+    
     #one {
         height: 640px;
     }
