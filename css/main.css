@@ -644,6 +644,9 @@ footer {
     .links> a:not(:first-of-type) {
         margin-left: 40px;
     }
+     #wrap{
+      background-attachment: fixed;
+    }
 }
 @media only screen and (min-width: 768px) {
     h1 {
@@ -679,6 +682,9 @@ footer {
         text-align: right;
         display: block;
     }
+     #wrap{
+      background-attachment: fixed;
+    }
 }
 @media only screen and (min-width: 992px) {
     h1 {
@@ -706,6 +712,9 @@ footer {
         font-size: 70px;
         line-height: 124px;
     }
+     #wrap{
+      background-attachment: fixed;
+    }
 
 }
 @media only screen and (min-width: 993px) {
@@ -727,6 +736,10 @@ footer {
       float: left;
 
     }
+    #wrap{
+      background-attachment: fixed;
+    }
+    
 }
 ::-webkit-scrollbar {
     width: 0px;
