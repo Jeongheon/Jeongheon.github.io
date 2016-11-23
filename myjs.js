@@ -1,5 +1,6 @@
 $(document).ready(function() {
     $('#log_out_btn').hide();
+    $('#log_sec').hide();
     //-----------------------------------------------------------------
     $('.sign > input:first-of-type').focus(function() {
         $(this).css({
@@ -192,6 +193,7 @@ $(document).ready(function() {
         $('#welcome_message').slideDown('slow');
         $('#want_sign_wrap').slideUp('slow');
         $('#sign_in').slideDown('slow');*/
+        $('#log_sec').slideDown('slow');
         $('.check_id_and_password').hide();
         $('#two,#three').slideDown('slow');
         $('#log_out_btn').fadeIn('slow');
