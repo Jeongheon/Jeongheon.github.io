@@ -629,7 +629,7 @@ footer {
 .fa.fa-css3 {
     color: #349DC9;
 }
-@media only screen and (min-width: 480px) {
+@media only screen and (max-width: 480px) {
     h1 {
         font-size: 30px;
     }
@@ -657,7 +657,7 @@ footer {
     }
  
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
     h1 {
         font-size: 35px;
     }
@@ -693,7 +693,7 @@ footer {
     }
    
 }
-@media only screen and (min-width: 992px) {
+@media only screen and (max-width: 992px) {
     h1 {
         font-size: 40px;
     }
@@ -722,7 +722,7 @@ footer {
 
 
 }
-@media only screen and (min-width: 993px) {
+@media only screen and (max-width: 993px) {
     h1 {
         font-size: 40px;
     }
