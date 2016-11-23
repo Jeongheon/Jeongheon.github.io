@@ -28,7 +28,7 @@ li {
 }
 
 #wrap {
-    background-image: url("/img/shark.jpg");
+    background-image: url("../img/shark.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -298,13 +298,13 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
     z-index: 9999;
     box-shadow: 0px 1px 5px black;
     background-attachment: fixed;
-    background-image: url("/img/overlay3.svg");
+    background-image: url("../img/overlay3.svg");
     background-size: cover;
 }
 #two {
     padding-bottom: 20px;
     background-color: rgba(100, 100, 100, 0.1);
-    background-image: url("/img/overlaydot.png"), url("/img/overlay1.png");
+    background-image: url("../img/overlaydot.png"), url("../img/overlay1.png");
     background-size: auto;
 }
 
@@ -487,7 +487,7 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
   border-radius: 50%;
   width:250px;
   height: 250px;
-  background-image: url("/img/hoby_report.jpg");
+  background-image: url("../img/hoby_report.jpg");
   background-size: 100% 100%;
 
 }
@@ -495,7 +495,7 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
   border-radius: 50%;
   width:250px;
   height: 250px;
-  background-image: url("/img/hoby_fix.jpg");
+  background-image: url("../img/hoby_fix.jpg");
   background-size: 100% 100%;
 
 }
@@ -505,7 +505,7 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
 }
 #three {
     padding-bottom: 20px;
-    background-image: url("/img/overlay3.svg");
+    background-image: url("../img/overlay3.svg");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 9999;
@@ -577,7 +577,7 @@ footer {
     color: #fff;
     padding: 10px;
     overflow: hidden;
-    background-image: url("/img/overlay3.svg"), url("/img/overlay1.png");
+    background-image: url("../img/overlay3.svg"), url("../img/overlay1.png");
     background-repeat: no-repeat;
     background-size: 100%;
     z-index: 9999;
