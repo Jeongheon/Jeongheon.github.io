@@ -1,5 +1,5 @@
 $(document).ready(function() {
-
+    $('#log_out_btn').hide();
     //-----------------------------------------------------------------
     $('.sign > input:first-of-type').focus(function() {
         $(this).css({
