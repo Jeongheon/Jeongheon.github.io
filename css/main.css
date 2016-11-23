@@ -3,6 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+        background-image: url("../img/shark.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment : fixed;
+}
 
 h2 {
     margin-top: 0;
@@ -28,12 +34,13 @@ li {
 }
 
 #wrap {
-    position : fixed;
-    background: transparent;
+   
+/*
     background-image: url("../img/shark.jpg");
     background-size: cover;
     background-position: center;
-    
+    background-attachment : fixed;
+    */
     /*  background-color: #00BFFF;*/
 }
 #two, #three {
