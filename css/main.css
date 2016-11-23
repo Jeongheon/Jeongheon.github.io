@@ -9,6 +9,7 @@ body {
     background-position: center;
     background-attachment : fixed;
     overflow-y : scroll;
+    background-repeat : no-repeat;
 }
 
 h2 {
