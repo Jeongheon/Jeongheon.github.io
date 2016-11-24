@@ -3,17 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-/*body:before{
-     background-image: url("../img/shark.jpg");
-    background-size: cover;
-    background-position: center;
-    z-index : -10;
-    background-attachment : fixed;
-    overflow-y : scroll;
-    background-repeat : no-repeat;
-}*/
-
-
 h2 {
     margin-top: 0;
     margin-bottom: 0;
@@ -41,7 +30,7 @@ li {
     background-image: url("../img/shark.jpg");
     background-size: cover;
     background-position: center;
-    background-attachment : fixed;
+    background-attachment : fixed; 
 }
 #two, #three {
     display: none;
