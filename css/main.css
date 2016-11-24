@@ -12,14 +12,7 @@
     overflow-y : scroll;
     background-repeat : no-repeat;
 }*/
-#wrap {
-    background-image: url("../img/shark.jpg");
-    background-size: cover;
-    background-position: center;
-    background-attachment : fixed;
-    overflow-y : scroll;
-    background-repeat : no-repeat;
-}
+
 
 h2 {
     margin-top: 0;
@@ -45,14 +38,10 @@ li {
 }
 
 #wrap {
-   
-/*
     background-image: url("../img/shark.jpg");
     background-size: cover;
     background-position: center;
     background-attachment : fixed;
-    */
-    /*  background-color: #00BFFF;*/
 }
 #two, #three {
     display: none;
