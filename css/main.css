@@ -36,11 +36,8 @@ li {
     background-image: url("../img/shark.jpg");
     background-size: cover;
     background-position: center;
-    /*background-attachment : fixed; */
-    position :fixed;
-    top : 0;
-    left : 0;
-    z-index : -999999;
+    background-attachment : fixed; 
+   
 }
 #two, #three {
     display: none;
