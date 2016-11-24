@@ -25,13 +25,18 @@ li {
 .hide_message{
   display:none;
 }
-
-#wrap {
+body {
     background-image: url("../img/shark.jpg");
     background-size: cover;
     background-position: center;
     background-attachment : fixed; 
 }
+/*#wrap {
+    background-image: url("../img/shark.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment : fixed; 
+}*/
 #two, #three {
     display: none;
 }
