@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-#body:before{
+body:before{
      background-image: url("../img/shark.jpg");
     background-size: cover;
     background-position: center;
