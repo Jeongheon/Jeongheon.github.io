@@ -30,6 +30,7 @@ body {
     background-size: cover;
     background-position: center;
     background-attachment : fixed; 
+    z-index : -999999;
 }
 /*#wrap {
     background-image: url("../img/shark.jpg");
