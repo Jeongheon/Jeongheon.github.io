@@ -664,13 +664,13 @@ footer {
         right: 50px;
         top: 1px;
     }
-    /*#login_form {
+    #login_form {
         position: relative;
         margin-top: 15px;
         width: 700px;
         padding-left: 130px;
         padding-bottom: 10px;
-    }*/
+    }
     #id, #pw {
         width: 200px;
     }
@@ -718,6 +718,8 @@ footer {
         width: 130px;
         height: 130px;
     }
+
+
     .lock {
         font-size: 70px;
         line-height: 124px;
@@ -733,6 +735,15 @@ footer {
     }
     #one {
         height: 610px;
+    }
+    .hobby_text{
+      display: inline-block;
+      width:250px;
+    }
+    #hobby_pic_one,#hobby_pic_two{
+      display: inline-block;
+      float: left;
+
     }
 }
 ::-webkit-scrollbar {
