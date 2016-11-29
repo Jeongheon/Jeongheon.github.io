@@ -75,10 +75,10 @@ $(document).ready(function() {
     $('#resume_icon3').on('click', function() {
         $('#resume_icon_box').slideUp('slow');
         $('#hide_resume3').slideDown('slow');
-        $('#full_progress_html').css('width', '60%');
-        $('#full_progress_css').css('width', '50%');
-        $('#full_progress_js').css('width', '40%');
-        $('#full_progress_jq').css('width', '30%');
+        $('#full_progress_html').css('width', '80%');
+        $('#full_progress_css').css('width', '90%');
+        $('#full_progress_js').css('width', '60%');
+        $('#full_progress_jq').css('width', '60%');
     });
     $('#hide_resume3').on('click', function() {
         $('#hide_resume3').slideUp('slow');
