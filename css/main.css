@@ -29,7 +29,8 @@ body {
  background-image: url("../img/shark.jpg");
     background-size: cover;
     background-position: center;
-    background-attachment : fixed !important;   
+    background-attachment : fixed !important;  
+    position : fixed;
 }
 /*#wrap {
     background-image: url("../img/shark.jpg");
