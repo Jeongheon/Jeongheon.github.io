@@ -3,10 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-html {
-    background-color : white;
-    overflow-y: hidden;
-}
+
 h2 {
     margin-top: 0;
     margin-bottom: 0;
