@@ -27,10 +27,12 @@ li {
   display:none;
 }
 body {
- background-image: url("../img/shark.jpg");
+ /*background-image: url("../img/shark.jpg");
     background-size: cover;
     background-position: center;
-    background-attachment : fixed !important;  
+    background-attachment : fixed !important;  */
+    background-color :#2E9AFE;
+    
     
 }
 /*#wrap {
